@@ -5,7 +5,7 @@
 Please ensure that you have Node installed
 
 ## Clone Repo
-'git clone '
+'git clone https://github.com/ponnams1616/Acme-Bank-Assesment.git'
 
 ## Install Dependencies
 1. In a terminal window, cd into the project's mock-api-server directory and run `npm install` to install mock api dependencies (src/mock-api-server)
